@@ -15,8 +15,6 @@ class Matrix:
   def transpose(self):
      # your code
 
-  # Overloaded operators
-
   def __add__(self,other):
     # your code
 
@@ -25,3 +23,5 @@ class Matrix:
 
   def __mul__(self,other):
     # your code
+
+
